@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.daxode.codimation": {
+      "version": "file:com.daxode.codimation",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.8.13",
       "depth": 1,

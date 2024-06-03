@@ -1,0 +1,5 @@
+{
+    "name": "com.daxode.codimation",
+    "version": "1.0.0",
+    "description": "Codimation brings animation to your code. You want your code to look as if you wrote it live? Codimation will animate the transition between one snippet of code to the next. It can even do code highlighting using TreeSitter."
+}

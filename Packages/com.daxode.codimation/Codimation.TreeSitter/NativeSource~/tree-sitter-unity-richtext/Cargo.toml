@@ -1,0 +1,22 @@
+[package]
+name = "tree-sitter-unity-richtext"
+description = "c-based tree-sitter highlighter for Unity RichText. Written in Rust"
+version = "0.0.1"
+authors = [
+  "Daniel Kierkegaard Andersen <dani485b@gmail.com>",
+]
+keywords = ["incremental", "parsing", "tree-sitter", "c-sharp"]
+categories = ["parsing", "text-editors"]
+edition = "2021"
+autoexamples = false
+
+include = ["queries/*", "src/*"]
+
+[lib]
+crate-type = ["cdylib"]
+path = "src/lib.rs"
+
+[dependencies]
+tree-sitter = ">=0.22.6"
+tree-sitter-highlight = "0.22.6"
+tree-sitter-c-sharp = "0.21.2"

@@ -1,0 +1,18 @@
+{
+    "name": "Codimation",
+    "rootNamespace": "Codimation",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:c3895fe5eedac1940a8d9b73c2c623cf",
+        "GUID:19ef6022cd0e78849a30ffa5b491dab4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
