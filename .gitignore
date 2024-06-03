@@ -100,3 +100,8 @@ ProjectSettings/EntitiesClientSettings.asset
 /Assets/SourceGenerator/MakeQueryable~/MakeQueryable/MakeQueryable.Tests/bin
 /Assets/SourceGenerator/MakeQueryable~/MakeQueryable/MakeQueryable.Sample/obj
 /Assets/SourceGenerator/MakeQueryable~/MakeQueryable/MakeQueryable.Sample/bin
+!/Assets/SourceGenerator/MakeQueryable~/MakeQueryable.sln
+!/Assets/SourceGenerator/MakeQueryable~/MakeQueryable/MakeQueryable/MakeQueryable.csproj
+!/Assets/SourceGenerator/MakeQueryable~/MakeQueryable/MakeQueryable.Sample/MakeQueryable.Sample.csproj
+!/Assets/SourceGenerator/MakeQueryable~/MakeQueryable/MakeQueryable.Tests/MakeQueryable.Tests.csproj
+!/Assets/SourceGenerator/MakeQueryable~/MakeQueryable.sln.DotSettings.user
